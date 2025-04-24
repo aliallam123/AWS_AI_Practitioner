@@ -71,6 +71,13 @@ This covers only the AWS AI services you need to know for the exam. These are **
 - It’s used to get human-labeled data.
 - It’s often used for tasks like image annotation or data validation.
 
+- ## Amazon Augmented AI
+- Human oversight of ML predictions in production
+- These humans can be:
+- Your own employees
+- over 500.000 contractors from AWS, or AWS Mechanical Turk
+- The ML model can be built on AWS or elsewhere (SageMaker, Rekognition...)
+
 ---
 
 ## Key Exam Tip
