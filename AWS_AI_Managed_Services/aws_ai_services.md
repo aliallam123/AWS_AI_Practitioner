@@ -66,6 +66,11 @@ This covers only the AWS AI services you need to know for the exam. These are **
 - Smarter than basic OCR – preserves layout.
 - Use case: Automating form processing from PDFs.
 
+- ## Amazon Mechanical Turk
+- It’s a crowdsourcing platform.
+- It’s used to get human-labeled data.
+- It’s often used for tasks like image annotation or data validation.
+
 ---
 
 ## Key Exam Tip
