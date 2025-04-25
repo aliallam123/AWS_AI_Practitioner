@@ -110,6 +110,16 @@ Amazon SageMaker (SM) is AWS's fully managed platform for machine learning (ML) 
 
 ---
 
+## Extra Features
+
+### **Network Isolation Mode**
+- **Purpose:** Enhances security by preventing training jobs or models from making network calls to the internet or other AWS services.
+- **Key Exam Point:** Use for sensitive workloads to restrict network access during training or inference.
+
+### **SageMaker DeepAR Forecasting Algorithm**
+- **Purpose:** Built-in algorithm for time series forecasting.
+- **Key Exam Point:** Use DeepAR to forecast time series data, such as demand, sales, or resource utilization.
+
 **For the exam:**  
 Focus on **what each feature does, its role in the ML lifecycle, and when you’d use it**. You do **not** need to know configuration or code—just understand the workflow and governance concepts.
 
