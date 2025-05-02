@@ -6,3 +6,4 @@ I got 60% on a mock paper
 I reviewed the questions i got wrong and brushed on these topics:
 Asynchronous 
 Logistic Regression
+SVMs
