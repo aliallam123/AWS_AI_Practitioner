@@ -7,3 +7,4 @@ I reviewed the questions i got wrong and brushed on these topics:
 Asynchronous 
 Logistic Regression
 SVMs
+Neural Networks
