@@ -9,4 +9,4 @@ Asynchronous
 Model metrics such as:
 Logistic Regression
 SVMs
-Neural Networks
+Neural Networks - big and complex and requires black box model
