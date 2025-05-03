@@ -10,3 +10,4 @@ Model metrics such as:
 Logistic Regression
 SVMs
 Neural Networks - big and complex and requires black box model
+Decision Trees - If-then model, easy to interpret 
