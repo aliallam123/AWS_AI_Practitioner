@@ -11,3 +11,5 @@ Logistic Regression
 SVMs
 Neural Networks - big and complex and requires black box model
 Decision Trees - If-then model, easy to interpret 
+
+I got 67% on the next mock paper
