@@ -16,7 +16,3 @@ A quick reference for understanding the different Amazon Q services, tailored fo
 - **Amazon Q in QuickSight**  
   Lets users ask questions about data in plain English (e.g. “What were sales last month?”).
 
----
-
-✅ Focus on **what each version is for**, not technical setup or deep integrations.
-
