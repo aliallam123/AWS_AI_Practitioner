@@ -1,3 +1,5 @@
+
+
 # Amazon Q – AWS AI Practitioner Exam Notes
 
 A quick reference for understanding the different Amazon Q services, tailored for the AWS Certified AI Practitioner exam.
