@@ -17,3 +17,6 @@ I got 67% on the next mock paper.
 I got 78% on the third mock paper!
 
 70% is a pass
+
+To-do:
+book exam
