@@ -21,4 +21,6 @@ I got 78% on the third mock paper!
 To-do:
 book exam
 
-Did the 4th and final mock paper and I got 78% again 
+Did the 4th and final mock paper and I got 78% again
+
+Busy today, need to prep for my public speaking tomorrow  
